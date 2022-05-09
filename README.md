@@ -1,2 +1,2 @@
 # Resume
-Here you I linked my CV with github pages
+Here I linked my CV with github pages
